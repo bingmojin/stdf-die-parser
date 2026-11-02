@@ -1,0 +1,9 @@
+*.std
+*.stdf
+*.txt
+!requirements.txt
+*.xlsx
+__pycache__/
+build/
+dist/
+*.spec
